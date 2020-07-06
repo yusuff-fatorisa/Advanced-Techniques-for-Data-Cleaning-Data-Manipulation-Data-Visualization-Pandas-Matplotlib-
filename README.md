@@ -1,0 +1,2 @@
+# Advanced-Techniques-for-Data-Cleaning-Data-Manipulation-Data-Visualization-Pandas-Matplotlib-
+This lessons is an advanced one for Working Efficiently with Numpy, Pandas and Matplotlib for Data Preparation, Data Wrangling, Data Exploration and Visualization. It goes deeper to explore areas of data extraction for deeper insights of the Data. It requires you to execute the codes on Jupyter Notebook for optimum output
